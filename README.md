@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**AhmedMumtazHussain/AhmedMumtazHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Ahmed Mumtaz Hussain
 
 ### 💻 Computer Science Engineer | Data Analytics | AI/ML | Software Development | Cloud & DevOps
